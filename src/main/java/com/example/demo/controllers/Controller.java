@@ -7,6 +7,6 @@ public class Controller {
 
     @GetMapping("/")
     public String main() {
-        return "templates/index";
+        return "index";
     }
 }
