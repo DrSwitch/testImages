@@ -64,4 +64,6 @@ public class RestController {
         g.dispose();
 
         return resizedImage;
-    }}
+    }
+    
+}
